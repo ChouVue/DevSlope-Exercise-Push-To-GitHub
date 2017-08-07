@@ -5,6 +5,22 @@
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "53EA6A021F38F7B1003135EF"
+               BuildableName = "DevSlope Exercise Push To GitHub.app"
+               BlueprintName = "DevSlope Exercise Push To GitHub"
+               ReferencedContainer = "container:DevSlope Exercise Push To GitHub.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
    </BuildAction>
    <TestAction
       buildConfiguration = "Debug"
@@ -12,7 +28,36 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "53EA6A161F38F7B1003135EF"
+               BuildableName = "DevSlope Exercise Push To GitHubTests.xctest"
+               BlueprintName = "DevSlope Exercise Push To GitHubTests"
+               ReferencedContainer = "container:DevSlope Exercise Push To GitHub.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "53EA6A211F38F7B1003135EF"
+               BuildableName = "DevSlope Exercise Push To GitHubUITests.xctest"
+               BlueprintName = "DevSlope Exercise Push To GitHubUITests"
+               ReferencedContainer = "container:DevSlope Exercise Push To GitHub.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "53EA6A021F38F7B1003135EF"
+            BuildableName = "DevSlope Exercise Push To GitHub.app"
+            BlueprintName = "DevSlope Exercise Push To GitHub"
+            ReferencedContainer = "container:DevSlope Exercise Push To GitHub.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -26,6 +71,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "53EA6A021F38F7B1003135EF"
+            BuildableName = "DevSlope Exercise Push To GitHub.app"
+            BlueprintName = "DevSlope Exercise Push To GitHub"
+            ReferencedContainer = "container:DevSlope Exercise Push To GitHub.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -35,6 +90,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "53EA6A021F38F7B1003135EF"
+            BuildableName = "DevSlope Exercise Push To GitHub.app"
+            BlueprintName = "DevSlope Exercise Push To GitHub"
+            ReferencedContainer = "container:DevSlope Exercise Push To GitHub.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
